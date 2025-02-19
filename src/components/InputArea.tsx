@@ -59,17 +59,17 @@ const InputArea = ({ chat, setChat }: InputAreaProps) => {
             </form>
             <div className="flex items-center gap-2">
                 <Button
-                    size="sm"
+                    size="xs"
                     variant="outline"
-                    className="text-xs flex items-center gap-1 rounded-full "
+                    className="text-xs flex items-center gap-1 rounded-full"
                 >
                     <Plus />
                     <span>Suggest a destination</span>
                 </Button>
                 <Button
-                    size="sm"
+                    size="xs"
                     variant="outline"
-                    className="text-xs flex items-center gap-1 rounded-full "
+                    className="text-xs flex items-center gap-1 rounded-full"
                 >
                     <Plus />
                     <span>Suggest a hotel</span>
