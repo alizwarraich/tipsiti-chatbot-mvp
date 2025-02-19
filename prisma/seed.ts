@@ -1,16 +1,19 @@
-const { PrismaClient } = require("@prisma/client");
-
-const prisma = new PrismaClient();
+import prisma from "@/lib/prisma";
+import { Message, User } from "@prisma/client";
 
 async function main() {
     //change to reference a table in your schema
-    const val = await prisma.user.create({
+
+    const user: User = (await prisma.user.findMany())[0];
+
+    const message: Message = await prisma.message.create({
         data: {
-            name: "Ali Zulqarnain",
-            email: "alizwarraich@gmail.com",
+            content: "Hello, how can you assist me today?",
+            userId: user.id,
+            role: "USER",
         },
     });
-    console.log(val);
+    console.log(message);
 }
 
 main()
