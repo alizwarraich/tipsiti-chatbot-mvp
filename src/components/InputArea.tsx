@@ -4,17 +4,38 @@ import React from "react";
 import { Input } from "./ui/input";
 import { Button } from "./ui/button";
 import { Plus, SendHorizonal } from "lucide-react";
-import { sendMessage } from "@/lib/actions";
+import { getAIResponse, sendMessage } from "@/lib/actions";
+import { InputAreaProps } from "@/types";
+import { toast } from "sonner";
+import { removeDuplicateMessages } from "@/lib/utils";
 
-const InputArea = () => {
+const InputArea = ({ chat, setChat }: InputAreaProps) => {
     const [message, setMessage] = React.useState("");
 
     const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
 
         // this is a server action
-        const message = await sendMessage(new FormData(e.currentTarget));
-        console.log(message);
+        try {
+            const { messageObject } = await sendMessage(
+                new FormData(e.currentTarget)
+            );
+
+            setChat([...chat, messageObject]);
+            const updatedChat = [...chat, messageObject];
+            setMessage("");
+
+            const { aiResponse, messageObject: aiMessageObject } =
+                await getAIResponse(messageObject.content);
+
+            setChat(removeDuplicateMessages([...updatedChat, aiMessageObject]));
+
+            // TODO: remove this later and use this within a typewriter effect
+            console.log(aiResponse);
+        } catch (error) {
+            console.error(error);
+            toast.error("Something went wrong!");
+        }
     };
 
     return (
