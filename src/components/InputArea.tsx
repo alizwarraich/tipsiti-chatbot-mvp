@@ -27,15 +27,13 @@ const InputArea = ({ chat, setChat }: InputAreaProps) => {
             const updatedChat = [...chat, messageObject];
             setMessage("");
 
-            // TODO: use aiResponse within a typewriter effect
-            const { aiResponse, messageObject: aiMessageObject } =
-                await getAIResponse({
-                    query: { role: "user", content: messageObject.content },
-                    context: updatedChat.map((message) => ({
-                        role: "system",
-                        content: message.content,
-                    })),
-                });
+            const { messageObject: aiMessageObject } = await getAIResponse({
+                query: { role: "user", content: messageObject.content },
+                context: chat.map((message) => ({
+                    role: message.role === "BOT" ? "assistant" : "user",
+                    content: message.content,
+                })),
+            });
 
             setChat(removeDuplicateMessages([...updatedChat, aiMessageObject]));
             setResponseLoading(false);

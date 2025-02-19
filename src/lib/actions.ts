@@ -2,6 +2,7 @@
 
 import prisma from "./prisma";
 import openAIClient from "./openai";
+import { ChatCompletionRole } from "@/types";
 
 export async function sendMessage(formData: FormData) {
     const content = formData.get("content") as string;
@@ -26,8 +27,8 @@ export async function getAIResponse({
     query,
     context,
 }: {
-    query: { role: "user"; content: string };
-    context: { role: "system"; content: string }[];
+    query: { role: ChatCompletionRole; content: string };
+    context: { role: ChatCompletionRole; content: string }[];
 }) {
     const openAIResponse = await openAIClient.chat.completions.create({
         messages: [...context, query],
