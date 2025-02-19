@@ -12,7 +12,7 @@ export default function Page() {
     return (
         <div className="min-h-screen max-h-screen grid grid-rows-[5%_95%] overflow-hidden">
             <Navbar />
-            <div className="grid grid-rows-[90%_10%] p-8 justify-items-center font-[family-name:var(--font-geist-sans)]">
+            <div className="grid grid-rows-[90%_10%] justify-items-center font-[family-name:var(--font-geist-sans)]">
                 <ChatArea chat={chat} setChat={setChat} />
                 <InputArea chat={chat} setChat={setChat} />
             </div>

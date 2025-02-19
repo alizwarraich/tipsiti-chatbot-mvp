@@ -22,9 +22,15 @@ export async function sendMessage(formData: FormData) {
     };
 }
 
-export async function getAIResponse(content: string) {
+export async function getAIResponse({
+    query,
+    context,
+}: {
+    query: { role: "user"; content: string };
+    context: { role: "system"; content: string }[];
+}) {
     const openAIResponse = await openAIClient.chat.completions.create({
-        messages: [{ role: "user", content }],
+        messages: [...context, query],
         model: "gpt-3.5-turbo",
     });
 
