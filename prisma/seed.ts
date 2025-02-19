@@ -1,6 +1,5 @@
-import { Message, PrismaClient, User } from "@prisma/client";
-
-const prisma = new PrismaClient();
+import prisma from "@/lib/prisma";
+import { Message, User } from "@prisma/client";
 
 async function main() {
     //change to reference a table in your schema

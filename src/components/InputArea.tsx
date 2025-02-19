@@ -4,15 +4,17 @@ import React from "react";
 import { Input } from "./ui/input";
 import { Button } from "./ui/button";
 import { Plus, SendHorizonal } from "lucide-react";
+import { sendMessage } from "@/lib/actions";
 
 const InputArea = () => {
     const [message, setMessage] = React.useState("");
 
-    const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+    const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
 
+        // this is a server action
+        const message = await sendMessage(new FormData(e.currentTarget));
         console.log(message);
-        setMessage("");
     };
 
     return (
@@ -21,6 +23,8 @@ const InputArea = () => {
                 <Input
                     type="text"
                     value={message}
+                    name="content"
+                    id="content"
                     onChange={(e) => setMessage(e.target.value)}
                     className="shadow-none border-none outline-none focus-visible:ring-0"
                     placeholder="Ask anything..."
