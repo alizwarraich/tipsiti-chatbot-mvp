@@ -27,15 +27,21 @@ const InputArea = ({ chat, setChat }: InputAreaProps) => {
             const updatedChat = [...chat, messageObject];
             setMessage("");
 
-            const { messageObject: aiMessageObject } = await getAIResponse({
-                query: { role: "user", content: messageObject.content },
-                context: chat.map((message) => ({
-                    role: message.role === "BOT" ? "assistant" : "user",
-                    content: message.content,
-                })),
-            });
+            const { messageObject: aiMessageObject, aiResponse } =
+                await getAIResponse({
+                    query: { role: "user", content: messageObject.content },
+                    context: chat.map((message) => ({
+                        role: message.role === "BOT" ? "assistant" : "user",
+                        content: message.content,
+                    })),
+                });
 
-            setChat(removeDuplicateMessages([...updatedChat, aiMessageObject]));
+            setChat(
+                removeDuplicateMessages([
+                    ...updatedChat,
+                    { ...aiMessageObject, ...aiResponse },
+                ])
+            );
             setResponseLoading(false);
         } catch (error) {
             console.error(error);

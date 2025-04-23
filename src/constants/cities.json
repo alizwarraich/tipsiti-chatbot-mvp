@@ -1,0 +1,306 @@
+[
+    {
+        "href": "https://www.tipsiti.com/cities/amsterdam",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643668686-amsterdam.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1636476978-icons8-netherlands-100.svg",
+        "code": "AMS",
+        "title": "Amsterdam",
+        "description": "A font of liberalism, Amsterdam has come to foster an excess of free thought, artistry, and innovation.  It’s a city dominated by creativity and culture - from intimate live music bars, to vintage exchanges and pop-up design stores.  But the celebration of its historic canals and flagship museums also tells of a city determined to preserve its heritage."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/austin",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1667838172-austin-cover-photo.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633196432-icons8-united-states-100.svg",
+        "code": "AUS",
+        "title": "Austin",
+        "description": "Where big-city aesthetic meets small-town personality.  Austin may be the state capital of Texas, and it may have become a setting for commercial expansion, but the city still holds dear to community origins.  Food and folk come first; the great outdoors too.  But it’s not all country music and barbecue - the city’s sound is diverse, as is its appetite."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/bangkok",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1661810462-bangkok-cover-photo.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638817802-icons8-thailand-100.svg",
+        "code": "BKK",
+        "title": "Bangkok",
+        "description": "Famed for its street food merchants and chaotic market bazaars, Bangkok is one of the world’s most animated cities.  But, beyond its bevy of tuk-tuk drivers and Khaosan Road hawkers, the city celebrates tradition and cultural dynamism.  Explore temples, witness alms-givings, and get lost amongst alleyway communities.  An addictive assault on the senses."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/barcelona",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643669146-barcelona.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638971199-icons8-spain-100.svg",
+        "code": "BCN",
+        "title": "Barcelona",
+        "description": "The capital of Spain's Catalonia region, Barcelona is a historic, artistic, gastronomic, and sporting hub full of great food and attractions for everyone to enjoy.  With its pristine beaches, world-famous tapas, and historic architecture often featuring Antoni Gaudi, Barcelona is a Mediterranean dream."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/berlin",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643668605-berlin.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633196448-icons8-germany-100.svg",
+        "code": "BER",
+        "title": "Berlin",
+        "description": "With the relics of its turbulent past transformed afresh through street art, chic neighborhoods, and repurposed architecture, Germany’s capital embraces old and new."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/budapest",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643669225-budapest.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638819187-icons8-hungary-100.svg",
+        "code": "BUD",
+        "title": "Budapest",
+        "description": "Budapest is Hungary's cultural and political heart - an expected reality for the country’s capital, but a remark that still fails to do the city justice. Budapest is many things: an exhibition of period architecture, an enduring reminder of central Europe’s past, a convergence of domestic and international cuisines, and a city of leisure."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/buenos-aires",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1657031444-buenos-aires-cover-photo-small.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638816740-icons8-argentina-100.svg",
+        "code": "BAI",
+        "title": "Buenos Aires",
+        "description": "The old neighborhoods of lively Buenos Aires are filled with romantic restaurants and electric nightlife, with its European heritage evident through breathtaking architecture, meandering corridors, and green spaces."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/cape-town",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643585246-cape-town-cover-photo.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638824094-icons8-south-africa-100.svg",
+        "code": "CPT",
+        "title": "Cape Town",
+        "description": "Surrounded by natural beauty, South Africa's \"Mother City\" lies between the flat-topped Table Mountain and blue waters of Table Bay.  Cape Town is stunning, multicultural, and has thriving arts, dining, and nightlife scenes scattered among both its historic and more contemporary neighborhoods."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/dublin",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643667032-dublin.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638818628-icons8-ireland-100.svg",
+        "code": "DUB",
+        "title": "Dublin",
+        "description": "Culture, heritage, and history: the three pillars upon which Dublin stands and the reasons for millions of travelers landing on Irish soil each year.  Navigate castles, cathedrals, churches, and cobbled streets.  Oh, and Guinness.  It’d be a failure not to include mention of “The Black Stuff.”  Sink a few pints, mingle in city pubs, and visit the Storehouse."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/hamburg",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643669750-hamburg.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633196448-icons8-germany-100.svg",
+        "code": "HAM",
+        "title": "Hamburg",
+        "description": "Hamburg is connected to the North Sea by the Elbe River, and is both a major harbor city and a wonderful place to visit.  Crossed by hundreds of canals, flush with parks, and well-connected, areas such as the Neustadt and Altstadt are easy to get to and explore.  Be sure to visit the Binnenalster - full of boats and surrounded by busy cafes on sunny days."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/helsinki",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1694173119-helsinki-banner.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1662136065-icons8-finland-100.svg",
+        "code": "HEL",
+        "title": "Helsinki",
+        "description": "A city of spruce and stone, Helsinki is an archipelagic confluence of ocean, city, and nature – wild forestlands are never far away.  A few landmarks dot the main islands, but Helsinki is all about experiences.  Music, saunas, fresh foods, and fashion bring people together.  The Finnish capital also asserts itself as a design hub."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/hong-kong",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643666789-hong-kong.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633541746-icons8-hong-kong-sar-china-100.svg",
+        "code": "HKG",
+        "title": "Hong Kong",
+        "description": "Hong Kong is much more than a crowded harbor city, offering cloudy mountains and rocky islands among rural landscapes with breathtaking views.  Delicious dim sum, lush tropical islands, and one-of-a-kind nightlife engrained into the city's iconic skyline are just some of its alluring features."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/istanbul",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1655815959-istanbul-cover-photo.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638817895-icons8-turkey-100.svg",
+        "code": "IST",
+        "title": "Istanbul",
+        "description": "Split across Europe and Asia by the Bosphorus Straight, Istanbul showcases the many cultural influences of the empires that have ruled here over the past 2,000 years.  Explore its mahalles (neighborhoods) to discover the historical Sultanahmet, elegant Beyoğlu, refined Nişantaşı, bohemian Kadıköy, and vibrant Beşiktaş."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/lisbon",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643670069-lisbon.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633271003-icons8-portugal-100.svg",
+        "code": "LIS",
+        "title": "Lisbon",
+        "description": "Nestled among seven hills at the mouth of the Tagus river where it meets the Atlantic ocean, Lisbon is a wonderfully walkable city offering colorful markets,  vibrant nightlife, and unique museums."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/london",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643670445-london.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633543312-icons8-united-kingdom-100.svg",
+        "code": "LHR",
+        "title": "London",
+        "description": "Vibrant, noisy, multicultural.  Visitors come for historical attractions, sporting spectacles, jaw-dropping shopping, brilliant museums, and awe-inspiring theater performances.  Additionally, an unparalleled collection of international cuisines await those interested in a more food focused experience."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/los-angeles",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643583080-los-angeles-cover-photo.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633196432-icons8-united-states-100.svg",
+        "code": "LAX",
+        "title": "Los Angeles",
+        "description": "A city of plenty: Los Angeles stands as a global landmark of outdoor leisure, culinary experience, primetime entertainment, and colorful living.  From catching waves at Venice Beach and weaving between Elvis impersonators along Hollywood Boulevard to food truck dining and seemingly unending parties - the city's enormity and diversity are no exaggeration."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/marrakech",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1659548175-marrakech-cover.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638818719-icons8-morocco-100.svg",
+        "code": "RAK",
+        "title": "Marrakech",
+        "description": "Bustling markets, serene courtyards, and winding alleyways in the historic Medina welcome visitors looking to explore ancient Marrakech.  Dotted with Moorish architecture, historical mosques, and vibrant gardens - Marrakech is one-of-a-kind."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/mexico-city",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643667271-mexico-city.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638817301-icons8-mexico-100.svg",
+        "code": "MEX",
+        "title": "Mexico City",
+        "description": "A radiating metropolis, Mexico City intersperses 24/7 energy with a culinary scene and historical backdrop able to rival any global capital.  Street food to music to vivid murals await all and give a deeper resonance to daily life offering a collision of contemporary style with ancient heritage stretching back to its time as the Aztec capital Tenochtitlan. "
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/miami",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643583353-miami-cover-photo.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633196432-icons8-united-states-100.svg",
+        "code": "MIA",
+        "title": "Miami",
+        "description": "Miami is more than glitz and glamor with wide beaches stretching from North Shore Open Space Park, past palm-lined Lummus Park to  South Beach.  An international hotspot, its early-20th-century pastel-colored architecture in the Art Deco Historic district meshes wonderfully with phenomenal food, drink, and party options. "
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/milan",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643667347-milan.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633543863-icons8-italy-100.svg",
+        "code": "MXP",
+        "title": "Milan",
+        "description": "Milan: the Italian epicenter of fashion, modernity, creativity, and business.  The city's dynamism is conspicuous and comprehensive.  From the Gothic-renaissance of the Duomo to the upsurge of contemporary art spaces; from delicate Milanese courtyards to bold looks from the resident fashion houses; from street food eats to Michelin-starred business lunches."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/munich",
+        "coverImageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633196448-icons8-germany-100.svg",
+        "code": "MUC",
+        "title": "Munich",
+        "description": "Commonly mentioned among the most livable cities, Munich surpasses itself as the capital of Bavaria.  Its own microclimate of culture, the German city is protective of its conservative traditions yet grants space for innovation - here, the idea of “laptops and Lederhosen” came to be.  A hub of engineering and enterprise, food and beer, nature and art."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/new-york-city",
+        "coverImageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633196432-icons8-united-states-100.svg",
+        "code": "NYC",
+        "title": "New York City",
+        "description": "New York City's neighborhoods are ingrained into the American consciousness with food, music, and landmarks to be found around every corner, encouraged by the diverse population of immigrants who have come to take part in what this world-leading city has to offer."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/paris",
+        "coverImageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633270937-icons8-france-100.svg",
+        "code": "PAR",
+        "title": "Paris",
+        "description": "The capital of fashion and art, there is nothing quite like seeing Paris lit up at night viewed from the Eiffel Tower.  Known internationally as the City of Light, Paris is famous for its quartiers which house beautiful architecture, bridges, cathedrals, and parks."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/portland",
+        "coverImageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633196432-icons8-united-states-100.svg",
+        "code": "PDX",
+        "title": "Portland",
+        "description": "Portland offers access to delicious microbreweries and distilleries, eclectic nightlife, and eco-friendly urban planning that connect a surreal outdoors environment with the wilderness of Mount Hood and the nearby Pacific coast.   The \"Rose City\" also carries a reputation for colorful characters and a proudly liberal outlook with a personality to match."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/rio-de-janeiro",
+        "coverImageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633542132-icons8-brazil-100.svg",
+        "code": "GIG",
+        "title": "Rio de Janeiro",
+        "description": "Rio de Janeiro's famous beaches Copacabana and Ipanema stretch along the Atlantic, as the city's sights tuck in between Mount Corcovado and the Sugarloaf.  Come for the world's largest Carnaval festival, which features parade floats, flamboyant costumes, and samba."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/rome",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643667120-rome.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633543863-icons8-italy-100.svg",
+        "code": "FCO",
+        "title": "Rome",
+        "description": "The winding Italian capital features millennia old churches and basilicas, spectacular palaces and fountains, and awe-inspiring ruins and monuments, all seemingly preserved in time.  Today, Rome mixes in a cosmopolitan atmosphere, featuring a growing nightlife scene, shopping heaven, and of course, culinary treasures around every corner."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/san-diego",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643667185-san-diego.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633196432-icons8-united-states-100.svg",
+        "code": "SAN",
+        "title": "San Diego",
+        "description": "It's no easy job being \"America's Finest City.”  Though, San Diego may just manage to satisfy its lofty nickname.  Conjuring visions of surf, sunsets, and beaches abound, the West Coast locale has carved itself a reputation for laid-back living.  Take note of its international food scene, museums, and art too."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/san-francisco",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643580561-san-francisco-cover-photo.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633196432-icons8-united-states-100.svg",
+        "code": "SFO",
+        "title": "San Francisco",
+        "description": "Seven square miles tucked between the Bay and its steep California hills, foggy San Francisco offers an abundance of noteworthy sights.  From Victorian homes that overlook the breathtaking scenery of the city to its great ethnic and cultural depth, San Francisco shows its diversity in its varied neighborhoods."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/seoul",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1694553818-seoul-banner.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638816555-icons8-south-korea-100.svg",
+        "code": "SEL",
+        "title": "Seoul",
+        "description": "The capital of South Korea, Seoul's massive metropolis is home to modern skyscrapers, high-tech subways, and a riveting pop culture - all of which is nestled amongst Buddhist temples, palaces, and riveting street markets."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/shanghai",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1661998301-shanghai-cover-photo.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1662134193-icons8-china-100.svg",
+        "code": "SHA",
+        "title": "Shanghai",
+        "description": "A city of contrast.  Where Michelin star venues coexist with street food eats; where upscale shopping centers stand alongside residential longtangs; and where locals still rise with the sun to practice tai chi.  True, Shanghai has ascended as a mecca for business.  But just glancing beyond its rampant expansion sees a rich culture that continues to persist."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/singapore",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1661543610-singapore-cover-photo.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638825361-icons8-singapore-100.svg",
+        "code": "SIN",
+        "title": "Singapore",
+        "description": "An epicenter for Asian multiculturalism.  Not far removed from its colonial past, Singapore has been swift to re-establish itself as an independent pioneer of innovation and consumerism.  Now a prominent figure on the international circuit, the city is characterized by mingling cuisines, retail complexes, efficient engineering, and modern architecture."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/stockholm",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643669982-stockholm.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633544126-icons8-sweden-100.svg",
+        "code": "ARN",
+        "title": "Stockholm",
+        "description": "A city of islands - fourteen, no less - Stockholm's intrigue begins with its archipelago home.  But, beyond the novelty of inner-city ferry rides, Sweden's capital stands as a champion of modernity, efficiency, and inclusivity.  Here, enjoy the culinary bounty of the land and sea, immediate access to the outdoors, innovative architecture, and ample shops."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/sydney",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1661538287-sydney-cover-photo.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638816841-icons8-australia-100.svg",
+        "code": "SYD",
+        "title": "Sydney",
+        "description": "A city synonymous with beach culture; with harbors lined by upscale yachts; and headlined by some of the world’s most iconic landmarks - Sydney is a microcosm of Australian culture, and the country’s cosmopolitan capital.  Wander backstreet galleries, roam the surrounding national parks, and drink in the shadow of the Opera House.  A catch-all locale."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/tel-aviv",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643669787-tel-aviv.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633271071-icons8-israel-100.svg",
+        "code": "TLV",
+        "title": "Tel Aviv",
+        "description": "Culturally far removed from the nearby Jerusalem, Tel Aviv is Israel’s hedonist mecca.  Historical landmarks are few here - instead, beach life, late-night parties, and hipster coffee culture reign supreme.  Spend days lounging on Mediterranean shores, indulging in contemporary eateries, and roaming modern creative spaces; by night, follow the party."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/tokyo",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1658317680-tokyo-cover-photo.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638819117-icons8-japan-100.svg",
+        "code": "TYO",
+        "title": "Tokyo",
+        "description": "With its ultramodern skyscrapers, incomparable food scene, and dynamic nightlife, Tokyo is a sprawling and multifaceted city that contrasts cutting edge with ancient Buddhist temples, vintage teahouses, and peaceful gardens."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/toronto",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1663685502-toronto-cover-photo.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638817615-icons8-canada-100.svg",
+        "code": "YYZ",
+        "title": "Toronto",
+        "description": "A mainstay amongst the world’s most liveable cities, Toronto’s appeal transcends the ones and zeros of its financial prosperity.  It’s a city of multicultural wealth and creativity - approximately 200 languages are spoken in the city daily.  Here, international street food vendors, museums, galleries, and performing arts venues are never far away."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/vancouver",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1665411004-vancouver-cover-photo.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1638817615-icons8-canada-100.svg",
+        "code": "YVR",
+        "title": "Vancouver",
+        "description": "Set between mountains and sea, Vancouver is more than a peninsula gateway to the landscapes of British Columbia.  The forests and beaches of Stanley Park draw crowds, as does the Capilano Suspension Bridge.  But the city of vistas is equally one of culture and diversity.  Here, creativity is ubiquitous - from music and art to food and enterprise."
+    },
+    {
+        "href": "https://www.tipsiti.com/cities/vienna",
+        "coverImageUrl": "https://www.datocms-assets.com/55798/1643669721-vienna.png?w=600&h=240&q=33&fit=crop&auto=format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+        "flagImageUrl": "https://www.datocms-assets.com/55798/1633196488-icons8-austria-100.svg",
+        "code": "VIE",
+        "title": "Vienna",
+        "description": "Stroll along beautifully manicured streets, enjoy the ornate museums, and take a break at one of the many coffee houses that function as a compass for Viennese culture.  Music, art, and architecture abound."
+    }
+]
