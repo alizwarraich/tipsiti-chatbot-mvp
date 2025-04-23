@@ -9,8 +9,6 @@ import placesData from "@/constants/places.json";
 import { zodResponseFormat } from "openai/helpers/zod";
 import { z } from "zod";
 
-export const maxDuration = 60;
-
 const placesContext = `
         Cities Data:
         ${JSON.stringify(citiesData)}
